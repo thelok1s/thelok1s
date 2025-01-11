@@ -5,21 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelok1s&theme=onedark" alt="thelok1s" /></a> </p>
 
-- 🔭 I’m currently working on **pet projects**
-
-- 🌱 I’m currently learning **react+nextjs, postgresql+prisma etc..**
-
-- 👨‍💻 All of my projects are available at github (for now)
-
-- 📫 How to reach me **– telegram (same id)**
-
-- ⚡ Fun fact **root (board game) vagabond dominator**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/lok1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lok1s" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://skillicons.dev">
