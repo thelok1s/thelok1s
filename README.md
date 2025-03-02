@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @thelok1s</h1>
-<h3 align="center">Beginner web fullstack developer, CS cybersecurity bachelor student</h3>
+<h3 align="center">Typescript fullstack developer, CS cybersecurity bachelor student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelok1s&label=Profile%20views&color=0bdbb6&style=flat" alt="thelok1s" /> </p>
 
@@ -9,7 +9,7 @@
 <p align="left">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,py" /> <br/>
-    <img src="https://skillicons.dev/icons?i=bash,git,bun,npm,vite,figma,ps,postman" />
+    <img src="https://skillicons.dev/icons?i=bash,git,bun,npm,vite,figma,ps,playwright,postman" />
   </a>
 </p>
 <h3 align="left">Frontend</h3>
