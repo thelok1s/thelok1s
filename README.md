@@ -9,7 +9,7 @@
 <p align="left">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,py" /> <br/>
-    <img src="https://skillicons.dev/icons?i=bash,git,bun,npm,vite,figma,ps,playwright,postman" />
+    <img src="https://skillicons.dev/icons?i=bash,git,bun,npm,vite,figma,selenium,postman" />
   </a>
 </p>
 <h3 align="left">Frontend</h3>
@@ -27,7 +27,7 @@
 <h3 align="left">Expiriences</h3>
 <p align="left">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,wasm,vercel,selenium,prisma,powershell,linux,kali,github,azure,cloudflare,md" />
+    <img src="https://skillicons.dev/icons?i=wasm,vercel,prisma,powershell,linux,kali,github,azure,cloudflare,md" />
   </a>
 </p>
 
