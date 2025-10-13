@@ -5,12 +5,12 @@
 
 ## 🚀 Languages and ecosystem
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,css,html,python,php,webassembly,bash,bun,deno,json,jsonschema,jwt,nodejs" />
+  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,css,html,python,webassembly,bash,bun,deno,json,jwt,nodejs" />
 </p>
 
 ## 🛠 Frameworks and libraries 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,electron,graphql,materialui,motion,nestjs,pwa,puppeteer,prisma,redux,rest,sass,sequelize,singlespa,sqlite,storybook,swagger,tailwindcss,vite,reacthookform,zod,swc,oauth,radixui" />
+  <img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,electron,materialui,nestjs,pwa,puppeteer,redux,rest,sass,singlespa,sqlite,storybook,swagger,tailwindcss,vite,reacthookform,zod,swc,oauth,radixui" />
 </p>
 
 ## ⚙️ Development tools and infrastructure
