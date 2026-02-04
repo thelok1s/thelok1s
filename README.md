@@ -24,8 +24,7 @@
 </p>
 
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelok1s&show_icons=true&locale=en&layout=compact" alt="thelok1s" /></p>
-
+![Stats](./profile/stats.svg)
 
 
 <div align="right" class="tenor-gif-embed" data-postid="27228826" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><img src="https://media1.tenor.com/m/goY0VJNhQSIAAAAd/bleh-bleh-cat.gif"></img></div>
