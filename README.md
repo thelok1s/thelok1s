@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artem @thelok1s </h1>
 <h3 align="center">Fullstack web developer on TypeScript and Python. Web application security and cybersecurity bachelor.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thelok1s&label=Profile%20views&color=0bdbb6&style=flat" alt="thelok1s" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=thelok1s&label=Profile%20views&color=0bdbb6&style=flat" alt="thelok1s" /> 
+  <img src="https://github.com/thelok1s/thelok1s/actions/workflows/grs.yml/badge.svg" />
+</p>
 
 ## 🚀 Languages and ecosystem
 <p>
@@ -24,6 +27,10 @@
 </p>
 
 -----
+ 
+<div align="center" class="tenor-gif-embed" data-postid="27228826" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+  <img src="./profile/stats.svg"></img>
+  <img src="https://media1.tenor.com/m/goY0VJNhQSIAAAAd/bleh-bleh-cat.gif"></img>
+</div>
 
 
-<div align="right" class="tenor-gif-embed" data-postid="27228826" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><img src="https://media1.tenor.com/m/goY0VJNhQSIAAAAd/bleh-bleh-cat.gif"></img></div>
