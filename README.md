@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artyom @thelok1s [/ɑːrˈtɛm/ (ahr-TEM)] </h1>
-<h3 align="center">Typescript + React Fullstack engineer Web application security and cybersecurity bachelor.<br/> Web application security and cybersecurity specialist</h3>
+<h3 align="center">Typescript + React Fullstack engineer <br/> Web application security and cybersecurity specialist</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=thelok1s&label=Profile%20views&color=0bdbb6&style=flat" alt="thelok1s" /> 
   <img src="https://github.com/thelok1s/thelok1s/actions/workflows/grs.yml/badge.svg" />
