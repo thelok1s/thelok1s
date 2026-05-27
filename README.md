@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Artem @thelok1s </h1>
-<h3 align="center">Fullstack web developer on TypeScript and Python. Web application security and cybersecurity bachelor.</h3>
-
+<h1 align="center">Hi 👋, I'm Artyom @thelok1s [/ɑːrˈtɛm/ (ahr-TEM)] </h1>
+<h3 align="center">Typescript + React Fullstack engineer Web application security and cybersecurity bachelor.<br/> Web application security and cybersecurity specialist</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=thelok1s&label=Profile%20views&color=0bdbb6&style=flat" alt="thelok1s" /> 
   <img src="https://github.com/thelok1s/thelok1s/actions/workflows/grs.yml/badge.svg" />
@@ -31,6 +30,7 @@
 <div align="center" class="tenor-gif-embed" data-postid="27228826" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
   <img src="./profile/stats.svg"></img>
   <img src="https://media1.tenor.com/m/goY0VJNhQSIAAAAd/bleh-bleh-cat.gif"></img>
+  <p>I break and reverse engineer things for fun</p> 
 </div>
 
 
