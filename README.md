@@ -28,7 +28,8 @@
 -----
  
 <div align="center" class="tenor-gif-embed" data-postid="27228826" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-  <img src="./profile/stats.svg"></img>
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
   <img src="https://media1.tenor.com/m/goY0VJNhQSIAAAAd/bleh-bleh-cat.gif"></img>
   <p>I break and reverse engineer things for fun</p> 
 </div>
